@@ -8,7 +8,7 @@ Speak your IT automations into existence—AI that builds the future, one conver
 - **Knowledge base** stores templates in-memory (for hackathon demo).
 
 ## Tech Stack
-- **Frontend:** Static HTML + minimal JS (React not required for MVP).
+- **Frontend:** Static HTML + minimal JS.
 - **Backend:** Node.js + Express.
 - **Integrations (stubs):** AWS Bedrock, AWS Step Functions, SuperOps API.
 
